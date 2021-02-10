@@ -9,8 +9,8 @@ It consumes **The Rick and Morty API**. Available here: https://rickandmortyapi.
 You are required to implement the following requirements:
 
 - [ ] Add support for character avatar
-- [ ] Add support for pagination
 - [ ] Add support for filtering by name
+- [ ] Add support for pagination
 
 ## Useful links
 - [React Testing Library Cheatsheet](https://testing-library.com/docs/react-testing-library/cheatsheet/)
