@@ -12,7 +12,7 @@ First block
 
 1. Add support for character species
 2. Add support for selecting gender (dropdown)
-2. Add support for filtering by species
+3. Add support for filtering by species
 
 ## Useful links
 - [React Testing Library Cheatsheet](https://testing-library.com/docs/react-testing-library/cheatsheet/)
