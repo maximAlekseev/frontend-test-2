@@ -8,10 +8,11 @@ It consumes **The Rick and Morty API**. Available here: https://rickandmortyapi.
 
 You are required to implement the following requirements:
 
-1. Add support for character avatar
-2. Add support for selecting gender
-3. Add support for pagination
-4. Add support for filtering by name
+First block
+
+1. Add support for character species
+2. Add support for selecting gender (dropdown)
+2. Add support for filtering by species
 
 ## Useful links
 - [React Testing Library Cheatsheet](https://testing-library.com/docs/react-testing-library/cheatsheet/)
@@ -40,3 +41,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+
+Second block
+
+1. Add support for character avatar
+2. Add support for pagination
+3. Add support for filtering by name
