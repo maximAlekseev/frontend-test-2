@@ -39,22 +39,6 @@ const List: React.FC<Props> = ({page = 1}) => {
                            placeholder="Type species..."
                            data-testid="textSearch"/>
                 </div>
-                {/*<div className="App-list-control">*/}
-                    {/*<label htmlFor="pagination">*/}
-                        {/*Page #*/}
-                    {/*</label>*/}
-                    {/*<select name="pagination" id="pagination" data-testid="pagination">*/}
-                        {/*<option value="">-</option>*/}
-                    {/*</select>*/}
-                {/*</div>*/}
-                {/*<div className="App-list-control">*/}
-                    {/*<label htmlFor="textSearch">*/}
-                        {/*Search*/}
-                    {/*</label>*/}
-                    {/*<input name="textSearch" id="textSearch"*/}
-                        {/*placeholder="Type name..."*/}
-                        {/*data-testid="textSearch"/>*/}
-                {/*</div>*/}
             </div>
             <ul>{
                 entries.map((entry) => <li key={entry.id}>
